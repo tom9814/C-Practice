@@ -1,11 +1,1 @@
-#include <iostream>
-using namespace std;
-
-int main()
-{
-    cout << "Äã´óÒ¯" << endl;
-    
-    system("pause");
-
-    return 0;
-}
+int main(){printf("Hello Git");return 0;} 
