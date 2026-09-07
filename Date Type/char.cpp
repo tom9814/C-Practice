@@ -6,5 +6,6 @@ int main()
     cout << ch1 << endl;
     cout << "char占字节" << sizeof(char) << endl;
     cout << (int)ch1 << endl;
+    system("pause");
     return 0;
 }
