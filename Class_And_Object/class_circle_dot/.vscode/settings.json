@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir ; if ($?) { g++ $fileName Dot.cpp Circle.cpp -o $fileNameWithoutExt.exe } ; if ($?) { start $fileNameWithoutExt.exe }"
+    }
+}
