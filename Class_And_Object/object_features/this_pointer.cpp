@@ -17,7 +17,7 @@ public:
     //     return *this;
     // }
 
-    //拷贝赋值函数
+    //拷贝赋值函数,只会输出20了
     Person PersonAddAge(Person &p)
     {
         this->age += p.age;
